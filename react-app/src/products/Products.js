@@ -19,7 +19,7 @@ function Products() {
   return (
     <div className="content-container">
       <ListHeader
-        title="Products"
+        title="Products123"
         handleRefresh={handleRefresh}
         routePath="/products"
       />
